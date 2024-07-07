@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 In today's world,it is crucial for both individuals and insurance companies to be able to understand healthcare costs. In 2024, we are experiencing rising costs in medical care, and with that, there's a need for accurate prediction models that can help people plan their finances better and allow insurers to price their policies more accurately. My "Medical Insurance Cost Predictor" project aims to address this need by predicting medical bills based on several factors such as age, number of children, smoking status, location, and gender.
 
 
